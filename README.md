@@ -2,8 +2,7 @@
 
 ## Tech Stac
 
-<img alt="JavaScript" href="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 <!--
 **Bae0203/Bae0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
