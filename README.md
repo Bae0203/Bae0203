@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae0203&layout=compact)](https://github.com/Bae0203/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Bae0203=anuraghazra)](https://github.com/Bae0203/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae0203)](https://github.com/Bae0203/github-readme-stats)
 <!--
 **Bae0203/Bae0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
