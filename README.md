@@ -2,7 +2,6 @@
 ## 🖥️ MY Tech Stac<br/><br/><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/><br/><img alt="Html5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae0203&layout=compact)](https://github.com/Bae0203/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae0203)](https://github.com/Bae0203/github-readme-stats)
 <!--
 **Bae0203/Bae0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
