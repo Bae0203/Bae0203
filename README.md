@@ -1,7 +1,7 @@
 # HI👋, My name is Gyoung Min Bae
 ## 🖥️ MY Tech Stacs<br/><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-00599C.svg?&style=flat&logo=python&logoColor=white"/><br/><br/>Frontend<br/><img alt="Html5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=flat&logo=Html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat&logo=jQuery&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DBFB.svg?&style=flat&logo=React&logoColor=white"/>
 
-## Contect Me <br/><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmbae06gmail.com&logoColor=white"/>
+## Contect Me <br/><img alt="Gmail" src ="https://img.shields.io/badge/gmbae06gmail.com-EA4335.svg?&style=flat&logo=gmail&logoColor=white"/>
 
 
 ## Link <br/><a href="https://velog.io/@gmbae2006" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a><a href="https://www.instagram.com/gmbae06/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a><br/> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gmbae2006)](https://github.com/eungyeole/velog-readme-stats)
