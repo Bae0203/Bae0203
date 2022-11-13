@@ -5,6 +5,7 @@
 ## Portfolio<br/><a href="https://somber-rooster-d27.notion.site/56fcd8f0c9af417dbf2dabdc74597278" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae0203&layout=compact)](https://github.com/Bae0203/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae0203)](https://github.com/Bae0203/github-readme-stats)
+<br/>
 <!--
 **Bae0203/Bae0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
