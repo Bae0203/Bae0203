@@ -5,6 +5,7 @@
 
 ## 💬 Contect Me <br/><img alt="Gmail" src ="https://img.shields.io/badge/gmbae06gmail.com-EA4335.svg?&style=flat&logo=gmail&logoColor=white"/> <a href="https://velog.io/@gmbae2006" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/gmbae06/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a><br/> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gmbae2006)](https://github.com/eungyeole/velog-readme-stats)
 
+## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae0203&layout=compact&theme=tokyonight)](https://github.com/Bae0203/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae0203&show_icons=true&theme=tokyonight)
 <!--
