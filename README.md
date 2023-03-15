@@ -1,4 +1,5 @@
 <div align="center">
+  
 # HI👋, My name is Gyoung Min Bae
   
 ## 🖥️ MY Tech Stacs<br/><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-00599C.svg?&style=flat-square&logo=python&logoColor=white"/><br/><img alt="Html5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=flat-square&logo=Html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DBFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/> <br/>
