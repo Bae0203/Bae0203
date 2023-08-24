@@ -1,7 +1,7 @@
 
 ## HI👋, My name is Gyeong Min Bae
 
-## Portfolio <br/><a href="https://somber-rooster-d27.notion.site/56fcd8f0c9af417dbf2dabdc74597278" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <img alt="Gmail" src ="https://img.shields.io/badge/gmbae06gmail.com-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/>
+## Portfolio <br/><a href="https://somber-rooster-d27.notion.site/56fcd8f0c9af417dbf2dabdc74597278" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <img alt="Gmail" src ="https://img.shields.io/badge/gmbae06gmail.com-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/> <img alt="instagram" src ="https://img.shields.io/badge/gmbae06-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/>
 <!--
 **Bae0203/Bae0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
