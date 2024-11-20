@@ -2,7 +2,7 @@
 ## HI👋, My name is Gyeong Min Bae
 
 <div>
-<b>Contact</b> <br/><img alt="Gmail" src ="https://img.shields.io/badge/gmbae06gmail.com-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/> <img alt="instagram" src ="https://img.shields.io/badge/gmbae06-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/> 
+<b>Contact</b> <br/><img alt="Gmail" src ="https://img.shields.io/badge/gmbae06@gmail.com-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/> <img alt="instagram" src ="https://img.shields.io/badge/gmbae06-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/> 
 </div>
 
 ## Web
