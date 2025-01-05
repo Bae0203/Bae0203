@@ -7,7 +7,7 @@
 
 ## Web
 <a href="https://eill.netlify.app/">eill</a>
-<a href="https://safesearch.netlify.app/">SafeSearch</a>
+<a href="http://safesearch.kr/">SafeSearch</a>
 
 ## Stacks
 ```
